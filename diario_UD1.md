@@ -1,7 +1,7 @@
-**Empezamos** el portafolio y tras 2 semanas de clase yo noto que no tengo ni control ni conocimiento apenas sobre la terminal de Linux, y eso es una de mis mayores preocupaciones.  
-Por otra parte si que hemos visto un poco de Github, que básicamente sirve para almacenar nuestro código, y poder compartirlo con otras personas. Seguro que tiene infinidades de herramientas pero de momento apenas conozco esas utilidades.
+**Empezamos** el portafolio y tras 2 semanas de clase yo noto que no tengo ni control ni conocimiento apenas sobre la _terminal de Linux_, y eso es una de mis mayores preocupaciones.  
+Por otra parte si que hemos visto un poco de _Github_, que básicamente sirve para almacenar nuestro código, y poder compartirlo con otras personas. Seguro que tiene infinidades de herramientas pero de momento apenas conozco esas utilidades.
 
-**El día 26 de Septiembre** también vimos el lenguaje de MarkDown, que sinceramente me ha gustado mucho, y aunque no hubiera una clase de teoría en si, Dani nos dio una guía que hicimos en un momento y el contenido se vio muy claro. Además después de la guía también hicimos un ejercicio sobre chiquito donde usamos todos los contenidos de MarkDown y fue bastante rápido y chulo de hacer.  
+**El día 26 de Septiembre** también vimos el lenguaje de _MarkDown_, que sinceramente me ha gustado mucho, y aunque no hubiera una clase de teoría en si, Dani nos dio una guía que hicimos en un momento y el contenido se vio muy claro. Además después de la guía también hicimos un ejercicio sobre chiquito donde usamos todos los contenidos de _MarkDown_ y fue bastante rápido y chulo de hacer.  
 El 30 de septiembre Dani ha propuesto unos temas para que cada equipo prepare 2 temas por parejas, los estudiamos y nos preparamos para el siguiente 7 de octubre, donde los explicaremos a la clase como si fuéramos los profesores. Lo tengo que hacer con Manu, y los temas que tenemos que preparar son:
 >1- Modelos de arquitecturas web.  
  2- SSH.
