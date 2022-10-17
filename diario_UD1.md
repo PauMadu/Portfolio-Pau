@@ -12,3 +12,13 @@ También dividimos los 2 temas para que cada uno ya pudiera empezar a estudiar, 
 **7 de octubre:** Ha llegado el día de la presentación, Manu y yo lo tenemos bastante claro, pero aun asi los nervios siempre están presentes. Pero para afrontarlos hemos decidido ser los primeros, asi que allá vamos.
 Hemos acabado la presentación y ha salido como esperábamos, yo creo que bastante bien, para toda la información que teníamos la hemos hecho en 20 minutos, y espero que se haya entendido todo. Además Dani me ha hecho un par de preguntas y también  las he respondido correctamente asi que espero que tengamos buena nota, y que todos los compañeros hayan aprendido, que en fin es lo más importante.
 
+**10 de octubre:** Los compañeros que faltaban, hoy han terminado las presentaciones de sus trabajos.  
+Y además hemos empezado con la introducción e instalación de Apache, primeramente hemos leido una pagina donde explicaba muy bien los pasos a seguir y posteriormente lo hemos llevado a la practica mediante nuestra terminal de Línux. Una vez realizada la instalación y verificación de ella, el siguiente paso ha sido hacer unas memorias de lo que acababamos de hacer, siguiendo unas pautas ya marcadas por Dani. Lo de las memorias me parece muy util pero la verdad me ha costado bastante seguir las pautas y entiendo que es para que sea una redacción mas profesional, pero a la hora de que nosotros las reutilicems para estudiar por ejemplo, yo tengo una forma de redactar diferente, y estoy viendo que no me es nada comodo ni efectivo.
+
+**14 de octubre:** Hemos seguido con el entorno Apache ya que el ultimo dia solo vimos la introduccion e instalación. 
+Pero hoy vamos a continuar con ello, y una vez acabado pasaremos a la configuración de Apache, y de nuestro sitio web, asi como crearlo y poner información dentro de él.  
+Primeramente como ya hicimos el dia enterior, tenemos una pagina donde estan todos los pasos a seguir redactados, una vez leidos pasamos a la practica, donde nos surgió un problema y tuvimos que indagar un poco para buscar la solución, pero Dani ya estaba previsto de que esto pasaria y nos dejó otra web donde ponia como soluciónar el problema, y por último de nuevo tenemos que redactar unas memorias sobre la configuración.
+
+**17 de octubre:**
+
+
