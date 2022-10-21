@@ -22,3 +22,14 @@ Primeramente como ya hicimos el dia enterior, tenemos una pagina donde estan tod
 **17 de octubre:**
 
 
+
+**21 de octubre:** El dia de hoy Dani nos ha introducido Tomcat; que es basicamente un contenedor para almacenar los servidores de una pagina web (o incluso videojuegos), y este incluso se puede usar para compilar y ejecutar aplicaciones web realizadas en Java.  
+El trabajo ha consistido en instalar Tomcat en Linux, mediante los comandos de la terminal, una vez hecho, tambien hemos tenido que crear un usuario para asi poder entrar a la pagina web de Tomcat, donde podremos ver todos nuestros servidores.  
+La instalació ha sido muy sencilla, **excepto** (en el paso 1.2 de la Creacion de un Usuario, donde ha saltado un error pero para arreglarlo unicamente tenemos que poner lo siguiente):  
+```
+< rol rolename = "admin-gui" />  
+< role rolename = "manager-gui"/>  
+< usuario nombre de usuario = "tomcat" contraseña = "aprobar" roles = "admin-gui,manager-gui" />
+```
+
+
