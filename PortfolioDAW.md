@@ -36,7 +36,7 @@ La instalació ha sido muy sencilla, **excepto** (en el paso 1.2 de la Creacion 
 Hoy no he podido asistir a clase ya que tenia un viaje previsto y por eso no he podido asistir. Igualmente me he informado de lo que han hecho y como iba bastante adelantado nno me he perdido nada nuevo. Unicamente tengo que realizar el trabajo por parejas que nos pondrermos a trabajar el proximo lunes 28.
 
 **28 de Octubre:** 
-Dani ha propuesto hacer una práctica de SSH por parejas, la cual consiste en que; uno de la pareja con su ordenador hará de “Servidor”, y el otro de “cliente”, por lo tanto en nuestro caso Manu hará de Servidor por lo tendrá que:
+Dani ha propuesto hacer una práctica de SSH por parejas, la cual consiste en que; uno de la pareja con su ordenador hará de _“Servidor”_, y el otro de _“Cliente”_, por lo tanto en nuestro caso Manu hará de Servidor por lo tendrá que:
 - Crear un nuevo usuario -> solo para esta práctica.
 - Y también tendrá que **activar el servidor SSH**.
 
