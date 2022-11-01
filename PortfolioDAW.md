@@ -19,7 +19,7 @@ Y además hemos empezado con la introducción e instalación de Apache, primeram
 Pero hoy vamos a continuar con ello, y una vez acabado pasaremos a la configuración de Apache, y de nuestro sitio web, asi como crearlo y poner información dentro de él.  
 Primeramente como ya hicimos el dia enterior, tenemos una pagina donde estan todos los pasos a seguir redactados, una vez leidos pasamos a la practica, donde nos surgió un problema y tuvimos que indagar un poco para buscar la solución, pero Dani ya estaba previsto de que esto pasaria y nos dejó otra web donde ponia como soluciónar el problema, y por último de nuevo tenemos que redactar unas memorias sobre la configuración.
 
-**17 de octubre:**
+**18 de octubre
 
 
 
@@ -31,5 +31,10 @@ La instalació ha sido muy sencilla, **excepto** (en el paso 1.2 de la Creacion 
 < role rolename = "manager-gui"/>  
 < usuario nombre de usuario = "tomcat" contraseña = "aprobar" roles = "admin-gui,manager-gui" />
 ```
+
+**25 de octubre:** 
+
+
+**28 de octubre:** 
 
 
