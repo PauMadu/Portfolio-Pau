@@ -50,4 +50,5 @@ Dani ha propuesto hacer una práctica de SSH por parejas, la cual consiste en qu
 - Abre en el servidor un browser a la página.
 
 **2 de Noviembre:** 
-
+Sinceramente hoy no ha sido un dia para nada productivo, mas que nada porque seguios Manu y yo con las practicas por parejas, y hemos llegado a un punto donde no entiendo lo que me pide hacer el ejercicio, asi que pedimos ayuda a Dani, pero TODA la clase tenia dudas y justamente nosotros nos hemos quedado toda la clase sin tener una respuesta a nuestro problema.
+Por lo menos hemos adelantado y redactado todo hasta donde habiamos llegado.
