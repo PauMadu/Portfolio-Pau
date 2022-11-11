@@ -32,8 +32,8 @@ La instalació ha sido muy sencilla, **excepto** (en el paso 1.2 de la Creacion 
 < usuario nombre de usuario = "tomcat" contraseña = "aprobar" roles = "admin-gui,manager-gui" />
 ```
 
-**25 de Octubre:** 
-Hoy no he podido asistir a clase ya que tenia un viaje previsto y por eso no he podido asistir. Igualmente me he informado de lo que han hecho y como iba bastante adelantado nno me he perdido nada nuevo. Unicamente tengo que realizar el trabajo por parejas que nos pondrermos a trabajar el proximo lunes 28.
+**24 de Octubre:** 
+Hoy no he podido asistir a clase ya que tenia un viaje previsto y por eso no he podido asistir. Igualmente me he informado de lo que han hecho y como iba bastante adelantado nno me he perdido nada nuevo. Unicamente tengo que realizar el trabajo por parejas que nos pondrermos a trabajar el proximo viernes 28.
 
 **28 de Octubre:** 
 Dani ha propuesto hacer una práctica de SSH por parejas, la cual consiste en que; uno de la pareja con su ordenador hará de _“Servidor”_, y el otro de _“Cliente”_, por lo tanto en nuestro caso Manu hará de Servidor por lo tendrá que:
@@ -49,6 +49,12 @@ Dani ha propuesto hacer una práctica de SSH por parejas, la cual consiste en qu
 - Comprueba que puedes conectarte a la página.
 - Abre en el servidor un browser a la página.
 
-**2 de Noviembre:** 
+**31 de Noviembre:** 
 Sinceramente hoy no ha sido un dia para nada productivo, mas que nada porque seguios Manu y yo con las practicas por parejas, y hemos llegado a un punto donde no entiendo lo que me pide hacer el ejercicio, asi que pedimos ayuda a Dani, pero TODA la clase tenia dudas y justamente nosotros nos hemos quedado toda la clase sin tener una respuesta a nuestro problema.
 Por lo menos hemos adelantado y redactado todo hasta donde habiamos llegado.
+
+**4 de Noviembre:** 
+
+**7 de Noviembre:** 
+
+**11 de Noviembre:** 
