@@ -78,5 +78,14 @@ La parte positiva es que era el primer examen del curso y personalmente he salid
 En cuanto a esta asigfnatura el examen lo tenemos el Viernes y sinceramente estoy bastante preocupado ya que me veo muy mal respeco al control del linux y tambien sobre los contenidos como Apache y SSH.
 
 **18 de Noviembre:** 
-**Dia del Examen** voy con mucho miedo por la falta de control, pero finalmente tenia muy bien preparados todos los apuntes y links para buscar la informacion que iba a necesitar. Y creo que por lo menos si que podré aprobar.
+**Dia del Examen** voy con mucho miedo por la falta de control, pero finalmente tenia muy bien preparados todos los apuntes y links para buscar la informacion que iba a necesitar.  
+Personalmente estoy contento con el examen ya que ni yo mismo pensaba que podría hacer tanto con linux. Respecto a la dificultad del examen no es que fuera muy complicada. (Aunque no se como descargar una imagen mediante terminal), también he perdido mucho tiempo en pequeños errores que no sabía como solucionar. Ademas de que siento que soy el que más perdido va de toda la clase en esta asignatura, pero es totalmente normal porque nunca había tocado linux ni su terminal, aparte de MarkDown, Apache y SSH.
+Finalmente creo que por lo menos si que podré aprobar.  
+
+**21 de Noviembre:** 
+
+
+**25 de Noviembre:** 
+
+
 
