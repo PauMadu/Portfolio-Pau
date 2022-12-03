@@ -83,6 +83,14 @@ Personalmente estoy contento con el examen ya que ni yo mismo pensaba que podrí
 Finalmente creo que por lo menos sí que podré aprobar.  
 
 **21 de Noviembre:** 
-
+Semana de Examenes.
 
 **25 de Noviembre:** 
+Semana de Examenes.
+
+# Tema 5 - LAMP.
+**28 de Noviembre:** 
+Tras realizar todos los examenes del Primer Trimestre, nos disponemos a empezar rapidamente el Segundo Trimestre. Y rapidamente porque el tema 5 es sobre LAMP, el dia de hoy Dani nos lo ha introducido, y nos ha dado un documento con información y un pequeño ejemplo práctico.  
+Tambien nos ha propuesto dar este tema de forma rápida pero intensa ya que si lo hacemos asi podremos hacer el examen antes de Navidad y ya no tendremos que hacer ningun examen sobre esta asignatura, esto personalmente me beneficia mucho ya que Despliegue de Aplicaciones no es mi punto fuerte y si me lo puedo quitar de encima cuanto antes mucho mejor.
+
+**2 de Diciembre:** Hoy he empezado a leerme el documento que es bastante extenso(acabaré de leerlo en casa, más tranquilamente, porque habia mucho ruido en clase) y he realizado el mini ejercicio, pero era mas practica sobre PHP que otra cosa, asi que muy fácil.
