@@ -94,3 +94,7 @@ Tras realizar todos los examenes del Primer Trimestre, nos disponemos a empezar 
 Tambien nos ha propuesto dar este tema de forma rápida pero intensa ya que si lo hacemos asi podremos hacer el examen antes de Navidad y ya no tendremos que hacer ningun examen sobre esta asignatura, esto personalmente me beneficia mucho ya que Despliegue de Aplicaciones no es mi punto fuerte y si me lo puedo quitar de encima cuanto antes mucho mejor.
 
 **2 de Diciembre:** Hoy he empezado a leerme el documento que es bastante extenso(acabaré de leerlo en casa, más tranquilamente, porque habia mucho ruido en clase) y he realizado el mini ejercicio, pero era mas practica sobre PHP que otra cosa, asi que muy fácil.
+
+**5 de Diciembre:**
+
+**9 de Diciembre:**
