@@ -93,8 +93,15 @@ Semana de Examenes.
 Tras realizar todos los examenes del Primer Trimestre, nos disponemos a empezar rapidamente el Segundo Trimestre. Y rapidamente porque el tema 5 es sobre LAMP, el dia de hoy Dani nos lo ha introducido, y nos ha dado un documento con información y un pequeño ejemplo práctico.  
 Tambien nos ha propuesto dar este tema de forma rápida pero intensa ya que si lo hacemos asi podremos hacer el examen antes de Navidad y ya no tendremos que hacer ningun examen sobre esta asignatura, esto personalmente me beneficia mucho ya que Despliegue de Aplicaciones no es mi punto fuerte y si me lo puedo quitar de encima cuanto antes mucho mejor.
 
-**2 de Diciembre:** Hoy he empezado a leerme el documento que es bastante extenso(acabaré de leerlo en casa, más tranquilamente, porque habia mucho ruido en clase) y he realizado el mini ejercicio, pero era mas practica sobre PHP que otra cosa, asi que muy fácil.
+**2 de Diciembre:** Hoy he empezado a leerme el documento que es bastante extenso (acabaré de leerlo en casa más tranquilamente, porque habia mucho ruido en clase) y he realizado el mini ejercicio, pero era mas practica sobre PHP que otra cosa, asi que muy fácil.
 
 **5 de Diciembre:**
+Hemos empezado un nuevo proyecto por equipos, en el que cada uno deberá recoger información sobre unas preguntas, ponerla en común junto a los expertos de otros grupos, y una vez tengamos la información completa, deberemos explicarla a nuestro equipo y hacer entre todos un poster con la información resumida.
 
 **9 de Diciembre:**
+Como ha sido una semana diferente ya que martes y jueves han sido festivos, solo hemos ido 3 personas a clase y como no podíamos continuar con el trabajo ya que los expertos tenemos que poner en común la información, hemos decidido irnos a casa porque no podíamos hacer nada más productivo.
+
+**12 de Diciembre:**
+
+**16 de Diciembre:**
+
