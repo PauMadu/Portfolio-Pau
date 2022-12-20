@@ -96,12 +96,21 @@ Tambien nos ha propuesto dar este tema de forma rápida pero intensa ya que si l
 **2 de Diciembre:** Hoy he empezado a leerme el documento que es bastante extenso (acabaré de leerlo en casa más tranquilamente, porque habia mucho ruido en clase) y he realizado el mini ejercicio, pero era mas practica sobre PHP que otra cosa, asi que muy fácil.
 
 **5 de Diciembre:**
-Hemos empezado un nuevo proyecto por equipos, en el que cada uno deberá recoger información sobre unas preguntas, ponerla en común junto a los expertos de otros grupos, y una vez tengamos la información completa, deberemos explicarla a nuestro equipo y hacer entre todos un poster con la información resumida.
+Hemos empezado un nuevo proyecto por equipos, en mi caso lo he hecho con Manu, Moha y Diego, donde cada uno deberá recoger información sobre unas preguntas, ponerla en común junto a los expertos de otros grupos, y una vez tengamos la información completa, deberemos explicarla a nuestro equipo y hacer entre todos un poster con la información resumida.
 
 **9 de Diciembre:**
 Como ha sido una semana diferente ya que martes y jueves han sido festivos, solo hemos ido 3 personas a clase y como no podíamos continuar con el trabajo ya que los expertos tenemos que poner en común la información, hemos decidido irnos a casa porque no podíamos hacer nada más productivo.
 
 **12 de Diciembre:**
+El día de hoy, hemos continuado con el proyecto por equipos, lo que hemos hecho a sido poner en común la información con otros expertos de otros grupos, y rápidamente hemos vuelto a nuestro grupo para hacer un pdf con la información bien explicada, y además un poster con la información muy resumida pero con un aspecto más bonito y interesante.
 
 **16 de Diciembre:**
+Como el último día teníamos mucho que hacer no nos dio tiempo a acabarlo todo así que hoy es el día de acabar de perfeccionar el trabajo y entregarlo.
+Además Dani ha empezado otro nuevo tema, el cual consiste en Docker, y tenemos que hacer un documento de investigación científico, sobre que es Docker, su funcionalidad, la instalación y la creación de un contenedor.
+Hoy apenas he podido empezar con este trabajo ya que estaba cansado y además mi compañero Manu estaba enfermo.
 
+**19 de Diciembre:**
+Continuando con el trabajo sobre Docker, hoy también estoy yo solo, ya que mi compañero sigue malo, asi que me tocara trabajar el doble... La verdad me esta pareciendo bastante interesante Docker y sobre todo la forma en la que tenemos que redactar el documento, ya que es de formato científico y se ve mucho mas profesional que como lo estábamos haciendo anteriormente.
+
+**21 de Diciembre:**
+Hoy es el día del examen...
