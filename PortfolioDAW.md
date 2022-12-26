@@ -113,4 +113,4 @@ Hoy apenas he podido empezar con este trabajo ya que estaba cansado y además mi
 Continuando con el trabajo sobre Docker, hoy también estoy yo solo, ya que mi compañero sigue malo, asi que me tocara trabajar el doble... La verdad me esta pareciendo bastante interesante Docker y sobre todo la forma en la que tenemos que redactar el documento, ya que es de formato científico y se ve mucho mas profesional que como lo estábamos haciendo anteriormente.
 
 **21 de Diciembre:**
-Hoy es el día del examen...
+El examen ha sido bastante asequible ya que los contenidos de este no eran excesivos y además los tenía muy recientes, tanto que ya tenía preparados unos resúmenes de todo lo que podía preguntar el examen, y algunas cosas las he cogido de mis propios resúmenes, otras las he buscado y creo haber encontrado la respuesta, ahora solo falta saber la nota y ver donde he fallado para seguir mejorando.
