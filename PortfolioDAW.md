@@ -114,3 +114,8 @@ Continuando con el trabajo sobre Docker, hoy también estoy yo solo, ya que mi c
 
 **21 de Diciembre:**
 El examen ha sido bastante asequible ya que los contenidos de este no eran excesivos y además los tenía muy recientes, tanto que ya tenía preparados unos resúmenes de todo lo que podía preguntar el examen, y algunas cosas las he cogido de mis propios resúmenes, otras las he buscado y creo haber encontrado la respuesta, ahora solo falta saber la nota y ver donde he fallado para seguir mejorando.
+
+**9 de Enero:**
+
+
+**13 de Enero:**
