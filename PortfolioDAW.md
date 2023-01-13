@@ -116,6 +116,8 @@ Continuando con el trabajo sobre Docker, hoy también estoy yo solo, ya que mi c
 El examen ha sido bastante asequible ya que los contenidos de este no eran excesivos y además los tenía muy recientes, tanto que ya tenía preparados unos resúmenes de todo lo que podía preguntar el examen, y algunas cosas las he cogido de mis propios resúmenes, otras las he buscado y creo haber encontrado la respuesta, ahora solo falta saber la nota y ver donde he fallado para seguir mejorando.
 
 **9 de Enero:**
-
+Volvemos a clase después de Navidad, una dura vuelta sinceramente, lo que hemos hecho ha sido continuar el trabajo de Docker que habiamos dejado aparcado por el examen, en mi caso solo me queda el último punto por realizar que es crear un contenedor(tabien llamado imagen) desde 0.
+Hemos estado Manu y yo buscando información un buen rato, y tras la busqueda nos ha quedado claro como se hace. Así hemos ido paso a paso haciendolo en la terminal de linux de mi ordenador y a la vez que vamos ejecutando comandos hemos ido redactando el documento.
+Peró nos ha surgido un error y no hemos podido acabarlo
 
 **13 de Enero:**
