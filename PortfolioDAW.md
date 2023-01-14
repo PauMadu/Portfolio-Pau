@@ -116,8 +116,15 @@ Continuando con el trabajo sobre Docker, hoy también estoy yo solo, ya que mi c
 El examen ha sido bastante asequible ya que los contenidos de este no eran excesivos y además los tenía muy recientes, tanto que ya tenía preparados unos resúmenes de todo lo que podía preguntar el examen, y algunas cosas las he cogido de mis propios resúmenes, otras las he buscado y creo haber encontrado la respuesta, ahora solo falta saber la nota y ver donde he fallado para seguir mejorando.
 
 **9 de Enero:**
-Volvemos a clase después de Navidad, una dura vuelta sinceramente, lo que hemos hecho ha sido continuar el trabajo de Docker que habiamos dejado aparcado por el examen, en mi caso solo me queda el último punto por realizar que es crear un contenedor(tabien llamado imagen) desde 0.
-Hemos estado Manu y yo buscando información un buen rato, y tras la busqueda nos ha quedado claro como se hace. Así hemos ido paso a paso haciendolo en la terminal de linux de mi ordenador y a la vez que vamos ejecutando comandos hemos ido redactando el documento.
-Peró nos ha surgido un error y no hemos podido acabarlo
+Volvemos a clase después de Navidad, una dura vuelta sinceramente, lo que hemos hecho ha sido continuar el trabajo de Docker que habíamos dejado aparcado por el examen, en mi caso solo me queda el último punto por realizar que es crear un contenedor(también llamado imagen) desde 0.
+Hemos estado Manu y yo buscando información un buen rato, y tras la búsqueda nos ha quedado claro cómo se hace. Así hemos ido paso a paso haciéndolo en la terminal de linux de mi ordenador y a la vez que vamos ejecutando comandos hemos ido redactando el documento.
+Peró nos ha surgido un error y no hemos podido acabarlo.
 
 **13 de Enero:**
+Hoy hemos decidido que íbamos a acabar el proyecto, así que lo primero que hemos hecho ha sido preguntarle a Dani sobre el fallo que nos mostraba y resulta que al hacer la instalación de la imagen no se han instalado todas las carpetas necesarias (un poco extraño pero hemos tenido que volver a instalarlo y empezar desde el principio), y ahora ya sin ningun fallo, hemos acabado el trabajo, además hemos mostrado el contenido de la imagen a través del navegador y por la terminal.
+
+**16 de Enero:**
+
+
+**20 de Enero:**
+
