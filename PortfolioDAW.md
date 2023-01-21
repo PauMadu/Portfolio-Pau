@@ -124,7 +124,13 @@ Peró nos ha surgido un error y no hemos podido acabarlo.
 Hoy hemos decidido que íbamos a acabar el proyecto, así que lo primero que hemos hecho ha sido preguntarle a Dani sobre el fallo que nos mostraba y resulta que al hacer la instalación de la imagen no se han instalado todas las carpetas necesarias (un poco extraño pero hemos tenido que volver a instalarlo y empezar desde el principio), y ahora ya sin ningun fallo, hemos acabado el trabajo, además hemos mostrado el contenido de la imagen a través del navegador y por la terminal.
 
 **16 de Enero:**
-
+Este ultimo fin de semana Manu y yo nos reunimos para hacer las diapositivas  del trabajo que tenemos que exponer hoy, y nos han quedado muy bien, además nos hemos distribuido las partes para poder estudiar lo que tenemos que decir, ha sido una exposición bastante rápida pero asi ya nos la hemos quitado de encima, una vez acabadas las exposiciones de los compañeros hemos empezado con la instalación de Joomla en Ubuntu y mediante Docker.
 
 **20 de Enero:**
+Hoy se supone que tendría que haber acabado la instalación de Joomla, pero resulta que al hacerlo mediante Docker, la BD a la que tenemos que acceder está dentro de un contenedor, y eso nos lo complica todo un montón, por lo que he decidido hacerlo mediante Apache, y ya que estamos también lo haré en Windows, para poder seguir con el trabajo en casa.
+
+**23 de Enero:**
+
+
+**27 de Enero:**
 
