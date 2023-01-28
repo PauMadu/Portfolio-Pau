@@ -130,7 +130,7 @@ Este ultimo fin de semana Manu y yo nos reunimos para hacer las diapositivas  de
 Hoy se supone que tendría que haber acabado la instalación de Joomla, pero resulta que al hacerlo mediante Docker, la BD a la que tenemos que acceder está dentro de un contenedor, y eso nos lo complica todo un montón, por lo que he decidido hacerlo mediante Apache, y ya que estamos también lo haré en Windows, para poder seguir con el trabajo en casa.
 
 **23 de Enero:**
-
+Hoy, ya por fin, he acabado la instalación de Joomla, lo que ha suponido encender Apache y Mysq en Xampp, crearnos una BD en Mysq y un usuario. Además de instalarnos Joomla, introducirlo en nuestra carpeta (dentro de Xampp en Htdcs), buscar en el navegador localhost:8080/joomla y una vez dentro introducir el usuario y BD creada anteriormente.
 
 **27 de Enero:**
 
