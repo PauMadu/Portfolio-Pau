@@ -104,6 +104,7 @@ Como ha sido una semana diferente ya que martes y jueves han sido festivos, solo
 **12 de Diciembre:**
 El día de hoy, hemos continuado con el proyecto por equipos, lo que hemos hecho a sido poner en común la información con otros expertos de otros grupos, y rápidamente hemos vuelto a nuestro grupo para hacer un pdf con la información bien explicada, y además un poster con la información muy resumida pero con un aspecto más bonito y interesante.
 
+# Tema 6 - Docker.
 **16 de Diciembre:**
 Como el último día teníamos mucho que hacer no nos dio tiempo a acabarlo todo así que hoy es el día de acabar de perfeccionar el trabajo y entregarlo.
 Además Dani ha empezado otro nuevo tema, el cual consiste en Docker, y tenemos que hacer un documento de investigación científico, sobre que es Docker, su funcionalidad, la instalación y la creación de un contenedor.
@@ -126,6 +127,7 @@ Hoy hemos decidido que íbamos a acabar el proyecto, así que lo primero que hem
 **16 de Enero:**
 Este ultimo fin de semana Manu y yo nos reunimos para hacer las diapositivas  del trabajo que tenemos que exponer hoy, y nos han quedado muy bien, además nos hemos distribuido las partes para poder estudiar lo que tenemos que decir, ha sido una exposición bastante rápida pero asi ya nos la hemos quitado de encima, una vez acabadas las exposiciones de los compañeros hemos empezado con la instalación de Joomla en Ubuntu y mediante Docker.
 
+# Tema 7 - Joomla.
 **20 de Enero:**
 Hoy se supone que tendría que haber acabado la instalación de Joomla, pero resulta que al hacerlo mediante Docker, la BD a la que tenemos que acceder está dentro de un contenedor, y eso nos lo complica todo un montón, por lo que he decidido hacerlo mediante Apache, y ya que estamos también lo haré en Windows, para poder seguir con el trabajo en casa.
 
