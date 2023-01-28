@@ -133,4 +133,8 @@ Hoy se supone que tendría que haber acabado la instalación de Joomla, pero res
 Hoy, ya por fin, he acabado la instalación de Joomla, lo que ha suponido encender Apache y Mysq en Xampp, crearnos una BD en Mysq y un usuario. Además de instalarnos Joomla, introducirlo en nuestra carpeta (dentro de Xampp en Htdcs), buscar en el navegador localhost:8080/joomla y una vez dentro introducir el usuario y BD creada anteriormente.
 
 **27 de Enero:**
+He empezado el Proyecto final de la asignatura, que será de Joomla. La primera parte era la mas basica que tan solo tenia que crear una pagina de presentacion con una pequeña descripccion sobre mi. Pero a partir de ahí no entendia lo que tenía que hacer, entonces Dani nos ha subido un video de 3h donde está todo lo que necesitamos, este video lo veré poco a poco la semana que viene, a medida que voy haciendo el proyecto.
 
+**30 de Enero:**
+
+**3 de Febrero:**
