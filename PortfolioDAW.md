@@ -132,11 +132,13 @@ Este ultimo fin de semana Manu y yo nos reunimos para hacer las diapositivas  de
 Hoy se supone que tendría que haber acabado la instalación de Joomla, pero resulta que al hacerlo mediante Docker, la BD a la que tenemos que acceder está dentro de un contenedor, y eso nos lo complica todo un montón, por lo que he decidido hacerlo mediante Apache, y ya que estamos también lo haré en Windows, para poder seguir con el trabajo en casa.
 
 **23 de Enero:**
-Hoy, ya por fin, he acabado la instalación de Joomla, lo que ha suponido encender Apache y Mysq en Xampp, crearnos una BD en Mysq y un usuario. Además de instalarnos Joomla, introducirlo en nuestra carpeta (dentro de Xampp en Htdcs), buscar en el navegador localhost:8080/joomla y una vez dentro introducir el usuario y BD creada anteriormente.
+Hoy, ya por fin, he acabado la instalación de Joomla, lo que ha supuesto encender Apache y Mysq en Xampp, crearnos una BD en Mysq y un usuario. Además de instalarnos Joomla, introducirlo en nuestra carpeta (dentro de Xampp en Htdcs), buscar en el navegador localhost:8080/joomla y una vez dentro introducir el usuario y BD creada anteriormente.
 
 **27 de Enero:**
-He empezado el Proyecto final de la asignatura, que será de Joomla. La primera parte era la mas basica que tan solo tenia que crear una pagina de presentacion con una pequeña descripccion sobre mi. Pero a partir de ahí no entendia lo que tenía que hacer, entonces Dani nos ha subido un video de 3h donde está todo lo que necesitamos, este video lo veré poco a poco la semana que viene, a medida que voy haciendo el proyecto.
+He empezado el Proyecto final de la asignatura, que será de Joomla. La primera parte era la más básica que tan solo tenía que crear una página de presentación con una pequeña descripción sobre mi. Pero a partir de ahí no entendía lo que tenía que hacer, entonces Dani nos ha subido un video de 3h donde está todo lo que necesitamos, este video lo veré poco a poco la semana que viene, a medida que vaya haciendo el proyecto.
 
 **30 de Enero:**
 
+
 **3 de Febrero:**
+
