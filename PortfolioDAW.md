@@ -138,7 +138,11 @@ Hoy, ya por fin, he acabado la instalación de Joomla, lo que ha supuesto encend
 He empezado el Proyecto final de la asignatura, que será de Joomla. La primera parte era la más básica que tan solo tenía que crear una página de presentación con una pequeña descripción sobre mi. Pero a partir de ahí no entendía lo que tenía que hacer, entonces Dani nos ha subido un video de 3h donde está todo lo que necesitamos, este video lo veré poco a poco la semana que viene, a medida que vaya haciendo el proyecto.
 
 **30 de Enero:**
-
+En clase he visto un poco del video el cual tiene que explicarnos todo lo necesario sobre Joomla, y la verdad que aunque sean 3h de video algunas partes sí que son muy buenas y la verdad que me ha ayudado a entender un poco mejor Joomla, y sobre todo los Usuarios y grupos.
 
 **3 de Febrero:**
+El miércoles 1 de Febrero en clase de DWC no tenía nada que hacer, entonces avancé mucho sobre este proyecto de Joomla, hasta tal parte que me queda apenas 1 apartado por hacer, y darle algún que otro retoque para dejar el proyecto perfecto.
+
+**6 de Febrero:**
+Hoy es el último día del portfolio, ya que Dani, solo tiene que evaluar el proyecto y poner la nota final, por lo que ya hemos aprendido todo lo necesario para poder hacer las prácticas y dar por finalizado este curso y el módulo superior al completo.
 
